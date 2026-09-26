@@ -1,4 +1,4 @@
-# Verdict Instability — reproduction package
+# Verdict Instability
 
 Code behind every table in the paper. Result files are not included; the core numbers are in
 [Core results](#core-results). Notation follows the paper.
