@@ -140,7 +140,7 @@ Correlations are centered within query group.
 
 ### Table 3 — abstention against instability
 
-$\Delta_M=AURC_M / AURC_{rand}}-1$, in percent. Entries average 10
+$\Delta_M=AURC_M / AURC_{rand}-1$, in percent. Entries average 10
 seeds and carry half the width of a 95\% interval over them.
 
 | Score | CIFAR-100 $\rho(M, \widehat{T})$ | AURC | $\Delta$ (%) | ImageNet-1k $\rho(M, \widehat{T})$ | AURC | $\Delta$ (%) | DermaMNIST $\rho(M, \widehat{T})$ | AURC | $\Delta$ (%) |
